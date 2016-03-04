@@ -1,7 +1,7 @@
 {
-	"name": "SchemaJS",
+	"name": "schema-js",
 	"author": "Garrett Stewart",
-	"version": "1.0",
+	"version": "1.0.o",
 	"repository": "https://github.com/BasiliskEngine/SchemaJS.git",
 	"dependencies": {}
 }
